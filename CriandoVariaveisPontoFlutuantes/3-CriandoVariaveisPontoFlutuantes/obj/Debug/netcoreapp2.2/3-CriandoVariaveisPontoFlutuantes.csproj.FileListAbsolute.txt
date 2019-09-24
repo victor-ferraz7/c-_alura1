@@ -1,0 +1,10 @@
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\CriandoVariaveisPontoFlutuantes\3-CriandoVariaveisPontoFlutuantes\bin\Debug\netcoreapp2.2\3-CriandoVariaveisPontoFlutuantes.deps.json
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\CriandoVariaveisPontoFlutuantes\3-CriandoVariaveisPontoFlutuantes\bin\Debug\netcoreapp2.2\3-CriandoVariaveisPontoFlutuantes.runtimeconfig.json
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\CriandoVariaveisPontoFlutuantes\3-CriandoVariaveisPontoFlutuantes\bin\Debug\netcoreapp2.2\3-CriandoVariaveisPontoFlutuantes.runtimeconfig.dev.json
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\CriandoVariaveisPontoFlutuantes\3-CriandoVariaveisPontoFlutuantes\bin\Debug\netcoreapp2.2\3-CriandoVariaveisPontoFlutuantes.dll
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\CriandoVariaveisPontoFlutuantes\3-CriandoVariaveisPontoFlutuantes\bin\Debug\netcoreapp2.2\3-CriandoVariaveisPontoFlutuantes.pdb
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\CriandoVariaveisPontoFlutuantes\3-CriandoVariaveisPontoFlutuantes\obj\Debug\netcoreapp2.2\3-CriandoVariaveisPontoFlutuantes.csproj.CoreCompileInputs.cache
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\CriandoVariaveisPontoFlutuantes\3-CriandoVariaveisPontoFlutuantes\obj\Debug\netcoreapp2.2\3-CriandoVariaveisPontoFlutuantes.AssemblyInfoInputs.cache
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\CriandoVariaveisPontoFlutuantes\3-CriandoVariaveisPontoFlutuantes\obj\Debug\netcoreapp2.2\3-CriandoVariaveisPontoFlutuantes.AssemblyInfo.cs
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\CriandoVariaveisPontoFlutuantes\3-CriandoVariaveisPontoFlutuantes\obj\Debug\netcoreapp2.2\3-CriandoVariaveisPontoFlutuantes.dll
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\CriandoVariaveisPontoFlutuantes\3-CriandoVariaveisPontoFlutuantes\obj\Debug\netcoreapp2.2\3-CriandoVariaveisPontoFlutuantes.pdb
