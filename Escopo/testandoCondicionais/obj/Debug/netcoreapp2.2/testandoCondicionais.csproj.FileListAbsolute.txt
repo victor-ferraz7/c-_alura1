@@ -1,0 +1,10 @@
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Escopo\testandoCondicionais\obj\Debug\netcoreapp2.2\testandoCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Escopo\testandoCondicionais\obj\Debug\netcoreapp2.2\testandoCondicionais.AssemblyInfoInputs.cache
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Escopo\testandoCondicionais\obj\Debug\netcoreapp2.2\testandoCondicionais.AssemblyInfo.cs
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Escopo\testandoCondicionais\bin\Debug\netcoreapp2.2\testandoCondicionais.deps.json
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Escopo\testandoCondicionais\bin\Debug\netcoreapp2.2\testandoCondicionais.runtimeconfig.json
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Escopo\testandoCondicionais\bin\Debug\netcoreapp2.2\testandoCondicionais.runtimeconfig.dev.json
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Escopo\testandoCondicionais\bin\Debug\netcoreapp2.2\testandoCondicionais.dll
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Escopo\testandoCondicionais\bin\Debug\netcoreapp2.2\testandoCondicionais.pdb
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Escopo\testandoCondicionais\obj\Debug\netcoreapp2.2\testandoCondicionais.dll
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Escopo\testandoCondicionais\obj\Debug\netcoreapp2.2\testandoCondicionais.pdb

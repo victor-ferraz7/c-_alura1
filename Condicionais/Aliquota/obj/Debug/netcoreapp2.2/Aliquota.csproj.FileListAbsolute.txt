@@ -1,0 +1,11 @@
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Condicionais\Aliquota\bin\Debug\netcoreapp2.2\Aliquota.deps.json
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Condicionais\Aliquota\bin\Debug\netcoreapp2.2\Aliquota.runtimeconfig.json
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Condicionais\Aliquota\bin\Debug\netcoreapp2.2\Aliquota.runtimeconfig.dev.json
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Condicionais\Aliquota\bin\Debug\netcoreapp2.2\Aliquota.dll
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Condicionais\Aliquota\bin\Debug\netcoreapp2.2\Aliquota.pdb
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Condicionais\Aliquota\obj\Debug\netcoreapp2.2\Aliquota.csprojAssemblyReference.cache
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Condicionais\Aliquota\obj\Debug\netcoreapp2.2\Aliquota.csproj.CoreCompileInputs.cache
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Condicionais\Aliquota\obj\Debug\netcoreapp2.2\Aliquota.AssemblyInfoInputs.cache
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Condicionais\Aliquota\obj\Debug\netcoreapp2.2\Aliquota.AssemblyInfo.cs
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Condicionais\Aliquota\obj\Debug\netcoreapp2.2\Aliquota.dll
+C:\Users\Victor Ferraz\Desktop\C#\PrimeiroProjeto\Condicionais\Aliquota\obj\Debug\netcoreapp2.2\Aliquota.pdb
